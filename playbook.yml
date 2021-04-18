@@ -2,6 +2,6 @@
 - name: Setting Up ForgeOps
   hosts: localhost
 
- roles:
-   - ansible-role-forgeops
+  roles:
+    - ansible-role-forgeops
 
