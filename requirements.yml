@@ -1,0 +1,7 @@
+---
+collections:
+  - name: community.general
+  - name: community.kubernetes
+roles:
+  - name: ansible-role-forgeops
+    src: https://github.com/patrickschlaepfer/ansible-role-forgeops.git 
