@@ -4,5 +4,6 @@ collections:
   - name: community.kubernetes
 roles:
   - name: ansible-role-forgeops
-    src: https://github.com/patrickschlaepfer/ansible-role-forgeops.git
+    src: git@github.com:patrickschlaepfer/ansible-role-forgeops.git
     version: origin/main
+    scm: git
