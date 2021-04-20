@@ -3,4 +3,4 @@ python_venv: /Users/patrick/venvs/ansible2.10
 ansible_python_interpreter: "{{ python_venv }}/bin/python3"
 
 ansible_role_forgeops_checkoutdir: /Users/patrick/projects/forgeops
-ansible_role_forgeops_version: tags/2020.08.07-ZucchiniRicotta.1
+ansible_role_forgeops_tag: tags/2020.08.07-ZucchiniRicotta.1
